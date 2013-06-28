@@ -1,0 +1,608 @@
+@media (min-width: 1300px) {
+	.container {
+		max-width: 1100px;
+	}
+}
+
+@media only screen and (max-width: 1300px) {
+
+	.container {
+		max-width: 860px;
+	}
+
+	.promo .column {
+		width: 50%;
+	}
+
+	.promo .video-wrap {
+		width: 328px;
+	}
+
+	.promo .mobiles-wrap {
+		width: 36%;
+	}
+
+	.big-features .box .left {
+		width: 50%;
+	}
+
+	.big-features .box .right {
+		width: 48%;
+	}
+
+	.small-features .title h2 {
+		margin-left: 70px;
+		width: 160px;
+	}
+
+	.small-features li {
+		width: 32%;
+		padding-right: 2%;
+	}
+
+
+	.small-features .box p {
+		margin-left: 70px;
+	}
+
+	.small-features .title .circle.iphone,
+	.small-features .title .circle.people,
+	.small-features .title .circle.rocket {
+
+	}
+
+	.screens .gallery li {
+		margin-bottom: 9px;
+	}
+
+	.promo.page4 .container {
+		position: static;
+		max-width: 100%;
+	}
+
+	.promo.page4 .fraction-slider .layer_0 {
+		max-width: 860px;
+		margin-left: -430px;
+	}
+
+	.promo.page4 .title h1 {
+		padding-top: 20px;
+		font-size: 50px;
+	}
+
+	.promo.page4 .promo-wrap {
+		margin-top: -260px;
+	}
+
+	.promo.page4 .video-wrap {
+		padding-top: 0;
+		left: 50% !important;
+		margin-left: -64px !important;
+	}
+
+	.promo.page4 .wrap-price {
+		left: 50% !important;
+		margin-top: 300px;
+		margin-left: -104px !important;
+	}
+
+
+}
+
+@media only screen and (max-width: 980px) {
+
+	.container {
+		max-width: 600px;
+	}
+
+	.container.promo-effect {
+		opacity: 1 !important;
+		top: 0 !important;
+	}
+
+	.promo {
+	    position: static;
+		height: auto;
+		overflow: hidden;
+	}
+
+	.promo .promo-gradient {
+		height: auto;
+		position: static;
+	}
+
+	.promo .mobiles-wrap {
+		width: 80%;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.promo .column {
+		float: none;
+		width: 100%;
+	}
+
+	.promo .video-wrap {
+		width: 340px;
+		margin: 0 auto;
+	}
+
+	.slider-wrapper {
+		position: static;
+	}
+
+	.promo .logo-wrap {
+		padding-top: 40px;
+	}
+
+	.promo .promo-wrap {
+		margin-top: 0;
+		text-align: center;
+		position: static;
+	}
+
+	.promo .video {
+		height: auto;
+	}
+
+	.promo .mobiles-wrap .iphone {
+		padding-top: 90px;
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	.header .go-top {
+		display: none !important;
+	}
+
+    .header .menu {
+	    float: right;
+	    margin-left: 0;
+    }
+
+	.header .menu li {
+		padding-left: 0;
+	}
+
+	.big-features .box .right {
+		float: none;
+		padding-top: 60px;
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	.big-features .box .left {
+		float: none;
+		width: 100%;
+	}
+
+	.big-features .box {
+		padding-bottom: 90px;
+	}
+
+	.big-features .title {
+		padding-top: 20px;
+		width: 100%;
+	}
+
+	.small-features li {
+		width: 50%;
+		padding-bottom: 25px;
+		padding-right: 0;
+	}
+
+
+	.small-features li.last {
+		padding-bottom: 80px;
+		clear: both;
+	}
+
+	.small-features .title h2 {
+		width: 160px;
+	}
+
+	.small-features .title .circle.iphone,
+	.small-features .title .circle.people,
+	.small-features .title .circle.rocket {
+
+	}
+
+
+	.flexslider-quotes .flex-direction-nav li .flex-prev,
+	.flexslider-quotes .flex-direction-nav li .flex-next {
+		margin-top: 0;
+	}
+
+	.screens .gallery li {
+		margin-bottom: 6px;
+	}
+
+	.footer .menu {
+		margin-left: 0;
+	}
+
+	/* --------- Page2 ------------ */
+
+	.page2 .gradient {
+		height: 40px;
+		position: absolute;
+		top: -40px;
+		width: 100%;
+	}
+
+
+	.promo.page2 .logo-wrap {
+		margin-top: 0;
+		padding-top: 100px;
+	}
+
+	.promo.page2 .logo {
+		padding: 18px 7px;
+		right: 70px;
+		left: inherit;
+	}
+
+	.page2 .subscribe {
+		float: none;
+	}
+
+	.page2 .subscribe .subscribe-wrap {
+		text-align: center;
+	}
+
+	.page2 .footer {
+		position: relative;
+		height: 100px;
+	}
+
+	.promo.page2 .mobiles-wrap {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.promo .mobiles-wrap .iphone {
+		padding-top: 0;
+	}
+
+	/* --------- Page3 ------------ */
+
+
+	.page3.big-features .box .left,
+	.page3.big-features .box .right {
+		width: 100%;
+	}
+
+	.page3.big-features .box {
+		position: relative;
+		margin-top: 340px;
+	}
+
+	.page3.big-features .box p {
+		margin-top: 0;
+		margin-left: 98px;
+	}
+
+	.page3.big-features .box .box-image {
+		position: absolute;
+		top: -340px;
+	}
+
+	.page3.big-features .title {
+		width: 100%;
+	}
+
+
+	.promo.page4 .container {
+		position: static;
+		max-width: 100%;
+	}
+
+	.promo.page4 .fraction-slider .layer_0 {
+		margin-left: -300px;
+		max-width: 600px;
+	}
+
+	.promo.page4 .title h1 {
+		font-size: 40px;
+	}
+
+	/* --------- Page4 ------------ */
+
+	.promo.page4  .video-wrap {
+		padding-top: 0;
+		margin-left: -60px !important;
+	}
+
+	.promo.page4  .wrap-price {
+		left: 50% !important;
+		margin-top: 290px;
+	}
+
+	.promo.page4 .price {
+		float: right;
+		width: auto;
+	}
+
+
+	.promo.page4 .promo-wrap {
+		width: 600px;
+		margin-left: -300px;
+		margin-top: -240px;
+	}
+
+}
+
+@media only screen and (max-width: 680px) {
+
+	.container {
+		max-width: 300px;
+	}
+
+	.promo .mobiles-wrap .iphone {
+		padding: 90px 0;
+		width: 100%;
+	}
+
+	.promo .price {
+		float: none;
+		padding-left: 0;
+		display: inline-block;
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	.promo .video {
+		float: none;
+		margin-top: 64px;
+		display: inline-block;
+	}
+
+	.promo .video-wrap {
+		width: 100%;
+	}
+
+	.promo .title h1 {
+		font-size: 31px;
+		line-height: 40px;
+	}
+
+	.header .social {
+		margin-left: 0;
+		float: right;
+	}
+
+	.header .menu {
+		display: none;
+	}
+
+	.header .social li {
+		padding-right: 0;
+		padding-left: 12px;
+	}
+
+	.big-features .box .right {
+		width: 100%;
+	}
+
+	.big-features .title .circle {
+		border-radius: 40px;
+		height: 40px;
+		width: 40px;
+		line-height: 40px;
+		font-size: 14px;
+	}
+
+	.big-features .title h2 {
+		margin-left: 50px;
+		margin-top: 7px;
+	}
+
+	.big-features .title {
+		font-size: 25px;
+	}
+
+	.big-features .box p {
+		margin-left: 0;
+	}
+
+	.small-features li {
+		float: none;
+		padding-bottom: 25px;
+		width: 100%;
+	}
+
+	.small-features .title h2 {
+		margin-left: 48px;
+		width: 80%;
+	}
+
+	.small-features .box p {
+		margin-left: 48px;
+	}
+
+	.small-features .title .circle {
+		border-radius: 32px;
+		height: 32px;
+		width: 32px;
+		line-height: 32px;
+	}
+
+	.small-features .title .circle.iphone,
+	.small-features .title .circle.people,
+	.small-features .title .circle.rocket {
+		background-size: 32px 32px;
+		margin-top: 0;
+	}
+
+	.quotes {
+		position: relative;
+	}
+
+
+	.flexslider-quotes .slides li {
+		padding-top: 80px;
+	}
+
+	.flexslider-quotes li .wrap-quote h1 {
+		font-size: 18px;
+		line-height: 25px;
+	}
+
+	.flexslider-quotes .flex-direction-nav {
+		position: absolute;
+		left: 50%;
+		top: 30px;
+
+	}
+
+	.flexslider-quotes .flex-direction-nav li .flex-prev {
+		background: url("../img/quotes/quotes_arrow_r_left.png") no-repeat;
+		width: 20px;
+		height: 20px;
+	}
+
+	.flexslider-quotes .flex-direction-nav li .flex-next {
+		background: url("../img/quotes/quotes_arrow_r_right.png") no-repeat;
+		width: 20px;
+		height: 20px;
+	}
+
+	.flexslider-quotes .flex-direction-nav li .flex-prev:hover {
+		background: url("../img/quotes/quotes_arrow_r_left_hover.png") no-repeat;
+	}
+
+	.flexslider-quotes .flex-direction-nav li .flex-next:hover {
+		background: url("../img/quotes/quotes_arrow_r_right_hover.png") no-repeat;
+	}
+
+	.flexslider-quotes .flex-direction-nav a.flex-prev {
+		margin-left: -25px;
+	}
+
+	.flexslider-quotes .flex-direction-nav a.flex-next {
+		margin-right: -25px;
+	}
+
+	.screens .gallery li {
+		margin-bottom: 20px;
+	}
+
+	.screens .gallery li.first,
+	.screens .gallery li.last {
+		float: none;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	.subscribe-wrap input.email {
+		width: 100%;
+	}
+
+	.subscribe-wrap h1 {
+		font-size: 24px;
+		line-height: 38px;
+		padding-bottom: 20px;
+	}
+
+	.footer .copyright {
+		display: none;
+	}
+
+	.footer .menu {
+		float: left;
+	}
+
+	.footer .social li {
+		padding-right: 0;
+		padding-left: 8px;
+	}
+
+	.footer .menu li {
+		padding-left: 0;
+		padding-right: 10px;
+	}
+
+	.small-features .title h2 {
+		margin-top: 4px;
+	}
+
+	/* --------- Page2 ------------ */
+
+	.promo.page2 .title h1 {
+		font-size: 31px;
+	}
+
+	.promo.page2 .logo-wrap {
+		text-align: left;
+	}
+
+	.promo.page2 .logo {
+		padding: 18px 26px;
+		right: -70px;
+	}
+
+	.promo.page2 .mobiles-wrap {
+		width: 100%;
+	}
+
+	.page2 .subscribe-wrap input.email {
+		width: 100%;
+	}
+
+	.promo .mobiles-wrap .iphone {
+		padding-top: 10px;
+	}
+
+	.page3.big-features .box {
+		margin-top: 240px;
+	}
+
+	.page3.big-features .box .box-image {
+		top: -200px;
+	}
+
+	.page3.big-features .title .circle {
+		font-size: 12px;
+	}
+
+	.page3.big-features .box p {
+		margin-left: 0;
+	}
+
+
+	/* ----------- Page4 --------------- */
+
+	.promo.page4 .container {
+		position: static;
+		max-width: 100%;
+	}
+
+	.promo.page4 .title h1 {
+		padding-top: 10px;
+		line-height: 30px;
+		font-size: 30px;
+	}
+
+	.promo.page4  .video-wrap {
+		padding-top: 0;
+		margin-left: -60px !important;
+	}
+
+	.promo.page4  .wrap-price {
+		left: 50% !important;
+		margin-top: 290px;
+	}
+
+	.promo.page4 .price {
+		float: right;
+		margin-left: -115px;
+		width: auto;
+	}
+
+	.promo.page4 .promo-wrap {
+		width: 300px;
+		margin-left: -150px;
+		margin-top: -230px;
+	}
+
+}
