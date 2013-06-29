@@ -141,9 +141,9 @@ html > body {
 }
 
 .promo .logo {
-	background: url("../img/promo/Heard Icon-Large.png") no-repeat;
+	background: url("../img/promo/wannaget.png") no-repeat;
 	background-size: contain;
-	height: 66px;
+	height: 65px;
 	width: 65px;
 	margin-bottom: -10px;
 	margin-right: 20px;
@@ -184,6 +184,7 @@ html > body {
 .promo .mobiles-wrap .iphone {
 	height: auto;
 	display: block;
+	margin-top:100px;
 }
 
 .promo .video {
@@ -282,7 +283,7 @@ html > body {
 }
 
 .header .logo {
-	background: url("../img/promo/Heard Icon-Large.png") no-repeat;
+	background: url("../img/promo/wannaget.png") no-repeat;
 	background-size: contain;
 	height: 38px;
 	width: 38px;
